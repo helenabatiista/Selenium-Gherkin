@@ -37,7 +37,7 @@ os seguintes cenários de teste:
 **Projeto**
 
 ```
-git clone https://github.com/andreinaoliveira/BDD-Base-Automation.git
+git clone https://github.com/helenabatiista/Selenium-Gherkin?tab=readme-ov-file
 ```
 
 **Dependencias**
